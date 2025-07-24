@@ -16,7 +16,7 @@ This project helps to deepen understanding of networking, socket programming, cl
 - User registration and authentication using passwords
 - Basic IRC commands like:
   - `/NICK`, `/USER`
-  - `/JOIN`, `/PART`, `/PRIVMSG`, `/NOTICE`
+  - `/JOIN`, `/PART`, `/PRIVMSG`
   - `/KICK`, `/TOPIC`, `/INVITE`, `/MODE`
 - Channel and user management
 - Error handling with informative messages
